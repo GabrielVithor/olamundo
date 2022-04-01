@@ -63,6 +63,6 @@ return false;
 Hand = ✋
 Smile = 😄
 
-### Citações
+## [PDF MARKDOWN CURSO EM VIDEO](https://github.com/gustavoguanabara/git-github/blob/master/manuais-PDF/guia-markdown.pdf)
 
 
